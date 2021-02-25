@@ -46,7 +46,7 @@ Information on how to get started can be found at our
 [Reflectly hero image]: https://github.com/gondaimgano/Covid19Stats/blob/master/sho2.png
 [Skia]: https://skia.org/
 [Dart platform]: https://dart.dev/
-[Dart platform diagram]: https://github.com/flutter/website/blob/master/src/images/homepage/dart-diagram-small.png
+[Dart platform diagram]: https://github.com/gondaimgano/Covid19Stats/blob/master/shot4.png
 [Hot reload animation]: https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/tools/android-studio/hot-reload.gif
 [Hot reload]: https://flutter.dev/docs/development/tools/hot-reload
 [Visual Studio Code]: https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
