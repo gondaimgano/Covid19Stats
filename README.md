@@ -3,7 +3,7 @@
 
 ## About Covid 19 Statistics
 
-The main purpose of the app is to help you the user to see how COVID 19 is scattered around the world via a MapKit and by providing you with updated information using the POSTMAN API and able to offline save the information via CoreData
+The main purpose of the app is to help you the user to see how COVID 19 is scattered around the world via a MapKit and by providing you with updated information using the POSTMAN API and able to offline cache the information via CoreData
 
 ### Visual Look of the App
 
