@@ -41,17 +41,9 @@ Flutter is a fully open-source project, and we welcome contributions.
 Information on how to get started can be found at our
 [contributor guide](CONTRIBUTING.md).
 
-[Flutter logo]: https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg
-[flutter.dev]: https://flutter.dev
-[Build Status - Cirrus]: https://api.cirrus-ci.com/github/flutter/flutter.svg
-[Build status]: https://cirrus-ci.com/github/flutter/flutter/master
-[Discord instructions]: https://github.com/flutter/flutter/wiki/Chat
-[Discord badge]: https://img.shields.io/discord/608014603317936148
-[Twitter handle]: https://img.shields.io/twitter/follow/flutterdev.svg?style=social&label=Follow
-[Twitter badge]: https://twitter.com/intent/follow?screen_name=flutterdev
-[layered architecture]: https://flutter.dev/docs/resources/inside-flutter
-[widget catalog]: https://flutter.dev/widgets/
-[Reflectly hero image]: https://github.com/flutter/website/blob/master/src/images/homepage/reflectly-hero-600px.png
+[Flutter logo]: https://github.com/gondaimgano/Covid19Stats/blob/master/shot1.png
+[flutter.dev]: https://github.com/gondaimgano/Covid19Stats/blob/master/sho2.png
+[Reflectly hero image]: https://github.com/gondaimgano/Covid19Stats/blob/master/shot1.png
 [Skia]: https://skia.org/
 [Dart platform]: https://dart.dev/
 [Dart platform diagram]: https://github.com/flutter/website/blob/master/src/images/homepage/dart-diagram-small.png
