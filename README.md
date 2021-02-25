@@ -43,7 +43,7 @@ Information on how to get started can be found at our
 
 [Flutter logo]: https://github.com/gondaimgano/Covid19Stats/blob/master/shot1.png
 [flutter.dev]: https://github.com/gondaimgano/Covid19Stats/blob/master/sho2.png
-[Reflectly hero image]: https://github.com/gondaimgano/Covid19Stats/blob/master/shot1.png
+[Reflectly hero image]: https://github.com/gondaimgano/Covid19Stats/blob/master/sho2.png
 [Skia]: https://skia.org/
 [Dart platform]: https://dart.dev/
 [Dart platform diagram]: https://github.com/flutter/website/blob/master/src/images/homepage/dart-diagram-small.png
