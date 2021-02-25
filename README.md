@@ -7,10 +7,7 @@ The main purpose of the app is to help you the user to see how COVID 19 is scatt
 
 ### Visual Look of the App
 
-
-
-![Reflectly hero image][Reflectly hero image]{:height="50%" width="50%"}
-
+<img src="https://github.com/gondaimgano/Covid19Stats/blob/master/shot1.png" height ="50%" width="50%"/>
 ### Able to Search by Country
 
 You are able to search by country without manually panning and moving 
