@@ -9,13 +9,13 @@ The main purpose of the app is to help you the user to see how COVID 19 is scatt
 
 
 
-![Reflectly hero image][Reflectly hero image]
+![Reflectly hero image][Reflectly hero image]{:height="50%" width="50%"}
 
 ### Able to Search by Country
 
 You are able to search by country without manually panning and moving 
 
-![Dart platform diagram][]
+![Dart platform diagram][]{:height="50%" width="50%"}
 
 
 
